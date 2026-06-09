@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+I'm **Sviatoslav**, a Software Engineer with a strong computer science background based in New York.
+
+I build backend systems and enjoy turning ideas into real projects.
+
+My main tech stack is **Java, Spring Boot, PostgreSQL, REST APIs, Liquibase, Swagger/OpenAPI, Git, and GitHub**.
+I’m also focused on **algorithms, system design, microservices, DevOps, and cloud-ready software engineering practices**.
+
+I have hands-on experience working on the **GreenCity eco-platform**, where I helped improve the user authentication experience by working on **Google OAuth integration**. This allowed users to sign in faster and more securely using their Google accounts instead of relying only on traditional login flows.
+
+I also work in **AI evaluation**, helping improve AI-generated responses for accuracy, clarity, relevance, and user experience.
+
 <!--
 **SvNadorozhnyi/SvNadorozhnyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
