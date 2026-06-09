@@ -4,7 +4,7 @@ I'm **Sviatoslav**, a Software Engineer with a strong computer science backgroun
 
 I build backend systems and enjoy turning ideas into real projects.
 
-My main tech stack is **Java, Spring Boot, PostgreSQL, REST APIs, Liquibase, Swagger/OpenAPI, Git, and GitHub**.
+My main tech stack is **Java, Spring Boot, PostgreSQL, REST APIs, Liquibase, Swagger/OpenAPI, Git, GitHub, AWS, Docker, CI/CD**.
 I’m also focused on **algorithms, system design, microservices, DevOps, and cloud-ready software engineering practices**.
 
 I have hands-on experience working on the **GreenCity eco-platform**, where I helped improve the user authentication experience by working on **Google OAuth integration**. This allowed users to sign in faster and more securely using their Google accounts instead of relying only on traditional login flows.
