@@ -9,6 +9,8 @@ I’m also focused on **algorithms, system design, microservices, DevOps, and cl
 
 I have hands-on experience working on the **GreenCity eco-platform**, where I helped improve the user authentication experience by working on **Google OAuth integration**. This allowed users to sign in faster and more securely using their Google accounts instead of relying only on traditional login flows.
 
+I’m also highly interested in modern AI tools and solutions, **including Claude, ChatGPT, and other AI-powered technologies**. I enjoy exploring how these tools work, understanding their strengths and limitations, and integrating them into my workflow to improve productivity, problem-solving, code quality, and learning speed.
+
 I also work in **AI evaluation**, helping improve AI-generated responses for accuracy, clarity, relevance, and user experience.
 
 <!--
